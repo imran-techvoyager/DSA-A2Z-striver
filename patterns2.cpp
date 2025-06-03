@@ -520,7 +520,7 @@ int main()
 
 int n;
 cin>>n;
-// print2(n);
+print2(n);
 // print3(n);
 // print4(n);
 // print5(n);
